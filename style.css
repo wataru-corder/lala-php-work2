@@ -1,0 +1,25 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  background: pink;
+}
+header h1,
+main {
+  width: 80%;
+  margin: 0 auto;
+}
+section {
+  margin: 20px 0;
+}
+footer {
+  background: pink;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
